@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name:  문서
+    url: https://github.com/Sky-Laon12/MCP_TEST/wiki
+    about: 프로젝트 문서를 확인하세요
+  - name: 💬 디스커션
+    url: https://github.com/Sky-Laon12/MCP_TEST/discussions
+    about: 일반적인 질문은 디스커션에서 해주세요
